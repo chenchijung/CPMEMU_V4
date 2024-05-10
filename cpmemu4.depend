@@ -1,0 +1,331 @@
+# depslib dependency file v1.0
+1395739107 source:/home/pi/cpmemu4/CPMEMU.C
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<setjmp.h>
+	<string.h>
+	<memory.h>
+	<unistd.h>
+	"cpmemu.h"
+	"cpmglob.h"
+	"simz80.h"
+
+1395745176 /home/pi/cpmemu4/cpmemu.h
+
+988961150 /home/pi/cpmemu4/cpmglob.h
+
+1395717342 source:/home/pi/cpmemu4/CPMBIOS.C
+	<stdio.h>
+	<setjmp.h>
+	"cpmemu.h"
+	"cpmglob.h"
+
+1395716800 source:/home/pi/cpmemu4/CPMEMUIN.C
+	<setjmp.h>
+	<stdio.h>
+	"cpmemu.h"
+	"cpmglob.h"
+
+1395732658 source:/home/pi/cpmemu4/MEM_MMU.C
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	"MEM_MMU.H"
+	"simz80.h"
+
+986784368 /home/pi/cpmemu4/MEM_MMU.H
+	<limits.h>
+	<memory.h>
+	<string.h>
+	<string.h>
+
+1395740922 /home/pi/cpmemu4/simz80.h
+	<limits.h>
+
+1395738818 source:/home/pi/cpmemu4/cpmglob.C
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<setjmp.h>
+	<string.h>
+	<memory.h>
+	"cpmemu.h"
+
+988985874 source:/home/pi/cpmemu4/simz80.c
+	"simz80.h"
+	<stdio.h>
+
+1395732559 source:/home/pi/cpmemu4/CPMBDOS.C
+	<stdio.h>
+	<stdlib.h>
+	<setjmp.h>
+	<string.h>
+	"cpmemu.h"
+	"cpmglob.h"
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<dirent.h>
+	<libgen.h>
+
+1395745236 source:/home/pi/cpmemu4/cpmbdos.c
+	<stdio.h>
+	<stdlib.h>
+	<setjmp.h>
+	<string.h>
+	<signal.h>
+	"cpmemu.h"
+	"cpmglob.h"
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<dirent.h>
+	<libgen.h>
+
+1395745286 source:/home/pi/cpmemu4/cpmbios.c
+	<stdio.h>
+	<setjmp.h>
+	<signal.h>
+	"cpmemu.h"
+	"cpmglob.h"
+
+1395797246 source:/home/pi/cpmemu4/cpmemu.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<setjmp.h>
+	<string.h>
+	<memory.h>
+	<signal.h>
+	<unistd.h>
+	"cpmemu.h"
+	"cpmglob.h"
+	"simz80.h"
+
+1395745107 source:/home/pi/cpmemu4/cpmemuin.c
+	<setjmp.h>
+	<stdio.h>
+	<signal.h>
+	"cpmemu.h"
+	"cpmglob.h"
+
+1395745328 source:/home/pi/cpmemu4/cpmglob.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<setjmp.h>
+	<string.h>
+	<memory.h>
+	<signal.h>
+	"cpmemu.h"
+
+1395743508 source:/home/pi/cpmemu4/mem_mmu.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	"mem_mmu.h"
+	"simz80.h"
+
+986784368 /home/pi/cpmemu4/mem_mmu.h
+	<limits.h>
+	<memory.h>
+	<string.h>
+	<string.h>
+
+1398996429 source:/home/dchen/CPM/cpmemu4/cpmbdos.c
+	<stdio.h>
+	<stdlib.h>
+	<setjmp.h>
+	<string.h>
+	<signal.h>
+	"cpmemu.h"
+	"cpmglob.h"
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<dirent.h>
+	<libgen.h>
+
+1398999833 /home/dchen/CPM/cpmemu4/cpmemu.h
+	<sys/types.h>
+
+1398996741 /home/dchen/CPM/cpmemu4/cpmglob.h
+
+1395745286 source:/home/dchen/CPM/cpmemu4/cpmbios.c
+	<stdio.h>
+	<setjmp.h>
+	<signal.h>
+	"cpmemu.h"
+	"cpmglob.h"
+
+1398999960 source:/home/dchen/CPM/cpmemu4/cpmemu.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<setjmp.h>
+	<string.h>
+	<memory.h>
+	<signal.h>
+	<unistd.h>
+	<readline/readline.h>
+	"cpmemu.h"
+	"cpmglob.h"
+	"simz80.h"
+
+1395740922 /home/dchen/CPM/cpmemu4/simz80.h
+	<limits.h>
+
+1395745108 source:/home/dchen/CPM/cpmemu4/cpmemuin.c
+	<setjmp.h>
+	<stdio.h>
+	<signal.h>
+	"cpmemu.h"
+	"cpmglob.h"
+
+1395899490 source:/home/dchen/CPM/cpmemu4/cpmglob.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<setjmp.h>
+	<string.h>
+	<memory.h>
+	<signal.h>
+	"cpmemu.h"
+
+1395743508 source:/home/dchen/CPM/cpmemu4/mem_mmu.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	"mem_mmu.h"
+	"simz80.h"
+
+986784368 /home/dchen/CPM/cpmemu4/mem_mmu.h
+	<limits.h>
+	<memory.h>
+	<string.h>
+	<string.h>
+
+988985874 source:/home/dchen/CPM/cpmemu4/simz80.c
+	"simz80.h"
+	<stdio.h>
+
+1713405526 source:c:\msys64\home\dchen\cpmemu4\cpmbdos.c
+	<stdio.h>
+	<stdlib.h>
+	<setjmp.h>
+	<string.h>
+	<signal.h>
+	<stdint.h>
+	<inttypes.h>
+	<synchapi.h>
+	<conio.h>
+	<windows.h>
+	<io.h>
+	"cpmemu.h"
+	"cpmglob.h"
+
+1713346819 c:\msys64\home\dchen\cpmemu4\cpmemu.h
+	<sys/types.h>
+	<stdint.h>
+	<signal.h>
+
+1712659295 c:\msys64\home\dchen\cpmemu4\cpmglob.h
+
+1713339389 source:c:\msys64\home\dchen\cpmemu4\cpmbios.c
+	<stdio.h>
+	<setjmp.h>
+	<signal.h>
+	<synchapi.h>
+	<conio.h>
+	"cpmemu.h"
+	"cpmglob.h"
+
+1713406371 source:c:\msys64\home\dchen\cpmemu4\cpmemu.c
+	<windows.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<setjmp.h>
+	<string.h>
+	<memory.h>
+	<signal.h>
+	<unistd.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<synchapi.h>
+	<conio.h>
+	<direct.h>
+	"cpmemu.h"
+	"cpmglob.h"
+	"simz80_yaze110.h"
+	"mem_mmu.h"
+	"simz80.h"
+	"ytypes.h"
+	<sysinfoapi.h>
+
+1711115491 c:\msys64\home\dchen\cpmemu4\simz80.h
+
+1713275508 source:c:\msys64\home\dchen\cpmemu4\cpmemuin.c
+	<setjmp.h>
+	<stdio.h>
+	<signal.h>
+	"cpmemu.h"
+	"cpmglob.h"
+	<windows.h>
+	<stdio.h>
+	<setjmp.h>
+	"cpmemu.h"
+	"cpmglob.h"
+
+1713183538 source:c:\msys64\home\dchen\cpmemu4\cpmglob.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<setjmp.h>
+	<string.h>
+	<memory.h>
+	<signal.h>
+	"cpmemu.h"
+
+1713137640 source:c:\msys64\home\dchen\cpmemu4\mem_mmu.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	"mem_mmu_yaze110.h"
+	"mem_mmu.h"
+	"simz80.h"
+
+1423053845 c:\msys64\home\dchen\cpmemu4\mem_mmu.h
+	"ytypes.h"
+	<memory.h>
+	<string.h>
+	<string.h>
+
+1713338898 source:c:\msys64\home\dchen\cpmemu4\simz80.c
+	"mem_mmu.h"
+	"simz80.h"
+	<stdio.h>
+
+1395740922 c:\msys64\home\dchen\cpmemu4\simz80_yaze110.h
+	<limits.h>
+
+1598122926 c:\msys64\home\dchen\cpmemu4\ytypes.h
+	<limits.h>
+
+986784368 c:\msys64\home\dchen\cpmemu4\mem_mmu_yaze110.h
+	<limits.h>
+	<memory.h>
+	<string.h>
+	<string.h>
+
